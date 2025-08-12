@@ -18,7 +18,7 @@ This project serves as a practical example of software porting, code structuring
 
 ## Screenshot
 
-*(You can add a screenshot of the game running here)*
+*(A screenshot of the game in action)*
 
 ![Game Screenshot](placeholder.png)
 
